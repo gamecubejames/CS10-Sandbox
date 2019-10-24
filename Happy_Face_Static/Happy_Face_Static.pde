@@ -1,5 +1,5 @@
 // Happy Face Static
-size(3000, 250);
+size(500, 500);
 int leftEyeX = width*1/4;
 int leftEyeY = height*1/4;
 int rightEyeX = width*3/4;
@@ -11,7 +11,7 @@ float nose2X = width*2.5/4;
 float nose2Y = height*2.5/4;
 float nose3X = width*1.5/4;
 float nose3Y = height*2.5/4;
-int mouthLeftX = width*1/4;
+int mouthLeftX = width*2/4;
 int mouthLeftY = height*3/4;
 int mouthRightX = width*3/4;
 int mouthRightY = mouthLeftY;
